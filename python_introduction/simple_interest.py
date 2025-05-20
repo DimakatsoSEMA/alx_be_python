@@ -3,5 +3,5 @@ rate = 0.05
 time = 3 
 
 # simple interest
-SI = principal*rate*time
+I = principal*rate*time
 print(f"The simple interest is: {SI}")
